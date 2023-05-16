@@ -8,8 +8,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.grow</groupId>ssasad
-	<artifactId>patrollingapi</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>patrollingapi</artifactId>wewew
+	<version>0.0.1-SNAPSHOT</version>ee
 	<name>patrollingapi</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
