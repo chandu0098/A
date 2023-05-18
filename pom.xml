@@ -7,10 +7,10 @@
 		<version>2.6.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.grow</groupId>ssasad
+	<groupId>com.grow</groupId>ssasadsdsd
 	<artifactId>patrollingapi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>patrollingapi</name>
+	<name>patrollingapi</name>sdsdas
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
